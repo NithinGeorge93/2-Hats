@@ -169,8 +169,9 @@
     box-shadow: none;
     color: #fff;
     padding: 10px 20px;
-    background: #d33;
+    background: #757b81;
     border: 0;
+    margin-left: 5px;
 }
 
 .btn-black {
