@@ -4,6 +4,8 @@
 
 .header-h {
     min-height: 526px;
+    background-size: cover;
+    background-position: center;
 }
 
 .banner {
